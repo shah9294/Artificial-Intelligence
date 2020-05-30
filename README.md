@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-AI Algorithms
+Some real life problems solved by implementing AI algorithms
